@@ -51,7 +51,7 @@ Winche capacidad de carga 40 ton
 
 
 
-* [] pendiente:cambio del titular de la pagina + logo de la empresa(h1 - "SERMEC" [LOGO]), y como h2 "MAESTRANZA NAVAL"
+* [ ] pendiente:cambio del titular de la pagina + logo de la empresa(h1 - "SERMEC" [LOGO]), y como h2 "MAESTRANZA NAVAL"
 
 * [ ] pendiente:incluir fotos solicitadas sobre maquinaria que se opera en la empresa
 
