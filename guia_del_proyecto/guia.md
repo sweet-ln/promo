@@ -1,5 +1,5 @@
 ##POR HACER
-* [0] pendiente:se buscar rehacer formato/estructura de la pagina(nuevo diseño solicitado)
+* [ ] pendiente:se buscar rehacer formato/estructura de la pagina(nuevo diseño solicitado)
 ![idea principal](./image/nuevo_formato.jpg)
 
 ##VARIOS
@@ -51,13 +51,13 @@ Winche capacidad de carga 40 ton
 
 
 
-* [x] pendiente:cambio del titular de la pagina + logo de la empresa(h1 - "SERMEC" [LOGO]), y como h2 "MAESTRANZA NAVAL"
+* [] pendiente:cambio del titular de la pagina + logo de la empresa(h1 - "SERMEC" [LOGO]), y como h2 "MAESTRANZA NAVAL"
 
-* [x] pendiente:incluir fotos solicitadas sobre maquinaria que se opera en la empresa
+* [ ] pendiente:incluir fotos solicitadas sobre maquinaria que se opera en la empresa
 
-* [x] pendiente:cambiar la forma en el que sale el link en la barra de busqueda ["WWW.Maestranzanaval.cl"(revisar implementacion sobre "www")]
+* [ ] pendiente:cambiar la forma en el que sale el link en la barra de busqueda ["WWW.Maestranzanaval.cl" (revisar implementacion sobre "www")]
 
-* [x] pendiente:datos adicionales a incluir (colsultar antes de la implementacion), implementacion de direccion del correo("Sermec1097@gmail.com"), 
+* [ ] pendiente:datos adicionales a incluir (colsultar antes de la implementacion), implementacion de direccion del correo("Sermec1097@gmail.com"), 
 como la de un numero de celular fijo("65 2250263")
 
 
