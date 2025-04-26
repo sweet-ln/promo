@@ -1,8 +1,8 @@
-##POR HACER
+## POR HACER
 * [ ] pendiente:se buscar rehacer formato/estructura de la pagina(nuevo diseño solicitado)
 ![idea principal](./image/nuevo_formato.jpg)
 
-##VARIOS
+### VARIOS
 
 **Servicios:** 
 Reparación de hélices marinas 
