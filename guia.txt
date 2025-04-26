@@ -1,0 +1,11 @@
+1- se buscar rehacer formato/estructura de la pagina(nuevo diseño solicitado)
+
+2-cambio del titular de la pagina + logo de la empresa(h1 - "SERMEC" [LOGO]), y como h2 "MAESTRANZA NAVAL"
+
+3-incluir fotos solicitadas sobre maquinaria que se opera en la empresa
+
+4-cambiar la forma en el que sale el link en la barra de busqueda ("WWW.Maestranzanaval.cl")
+4.1-revisar como implementar el "www"
+
+5-datos adicionales a incluir (colsultar antes de la implementacion), implementacion de direccion del correo("Sermec1097@gmail.com"), 
+como la de un numero de celular fijo("65 2250263")
