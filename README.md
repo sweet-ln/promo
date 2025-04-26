@@ -1,5 +1,2 @@
-# pagina web sermec
-pagina sermec publicitaria
-
-se busca rehacer la estrcutura base de la pagina con el referente 
-de la estructura de diseño![alt text](image/IMG-20250422-WA0012.jpg)
+# pagina web SERMEC
+pagina publicitaria para empresa SERMEC, se busca crear pagina tipo estatica que brinde informacion acerca de la empresa y como se trabajan los distintos tipos de materiales y/o maquinaria entre otro..
