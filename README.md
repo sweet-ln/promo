@@ -1,2 +1,2 @@
 # pagina web SERMEC
-pagina publicitaria para empresa SERMEC, se busca crear pagina tipo estatica que brinde informacion acerca de la empresa y como se trabajan los distintos tipos de materiales y/o maquinaria entre otro..
+pagina publicitaria para empresa SERMEC, se busca crear pagina tipo estatica que brinde informacion acerca de la empresa y como se trabajan los distintos tipos de materiales y/o maquinaria entre otros..

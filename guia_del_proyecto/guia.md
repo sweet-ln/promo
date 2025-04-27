@@ -24,6 +24,7 @@ Fleximetro de ejes
 Hélices fundición hecha en chile
 antes
 ![F6](./image/Pasted%20image%20(4).png)
+
 despues
 ![F7](./image/Pasted%20image%20(5).png)
 
@@ -36,16 +37,19 @@ Winche doble cabezo
 
 Winche de Ancla
 ![F10](./image/Pasted%20image%20(8).png)
+
 Imagen referencia
 ![F11](./image/Pasted%20image%20(9).png)
 
 Winche de Rampa
 ![F12](./image/Pasted%20image%20(10).png)
+
 (foto limpia/arreglada)
 ![F13](./image/Pasted%20image%20(11).png)
 
 Winche capacidad de carga 40 ton
 ![F14](./image/Pasted%20image%20(12).png)
+
 (foto limpia/arreglada)
 ![F15](./image/Pasted%20image%20(13).png)
 
