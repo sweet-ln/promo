@@ -1,3 +1,5 @@
+# Guía del Proyecto
+
 ## PENDIENTE
 
 * [ ] Pendiente: Se buscará rehacer formato/estructura de la página (nuevo diseño solicitado)  
@@ -8,18 +10,34 @@
 * [ ] Incluir fotos solicitadas sobre maquinaria que se opera en la empresa
 * [ ] Cambiar la forma en la que sale el link en la barra de búsqueda ["WWW.Maestranzanaval.cl" (revisar implementación sobre "www")]
 * [ ] Datos adicionales a incluir (consultar antes de la implementación), implementación de dirección del correo ("Sermec1097@gmail.com"), como la de un número de celular fijo ("65 2250263")
----
----
-Aunque nuestro objetivo es desarrollar una página estática (sin interacción directa con el usuario), que se utilizará para promocionar la empresa de manera independiente de la plataforma actual de gestión empresarial, es necesario adquirir un nuevo dominio o actualizar el plan de hosting que actualmente poseemos. ¿Por qué? Porque sin la adquisición de un dominio adicional, los problemas previamente mencionados continuarán ocurriendo.
 
-El propósito de este nuevo dominio será exclusivamente publicitario, enfocado en promover la empresa. Inicialmente, se implementará una página estática que, mediante la base de datos proporcionada por el servicio de hosting, nos permitirá llevar un registro de métricas. Estas métricas nos permitirán analizar la cantidad de usuarios que acceden al sitio, con la posibilidad de obtener estadísticas diarias, semanales, mensuales o trimestrales, según lo que se requiera.
-
-Adicionalmente, en relación con el enlace de la página de gestión, es posible realizar modificaciones en la URL, ya que actualmente lleva el nombre "maestranzanaval", que es precisamente el mismo nombre que deseamos utilizar para la página publicitaria. Uno de los cambios más relevantes será, por lo tanto, la actualización de esta URL para reflejar el nombre deseado en ambas plataformas.
 ---
 
-### PARA IMPLEMENTAR
+## Documentación Técnica
 
-**Servicios:**  
+### Página Estática y Dominio
+
+Aunque nuestro objetivo es desarrollar una **página estática** (sin interacción directa con el usuario), esta se utilizará para promocionar la empresa de manera independiente de la plataforma actual de gestión empresarial. Para ello, es necesario:
+
+1. **Adquirir un nuevo dominio** o **actualizar el plan de hosting** actual.  
+   - **Motivo:** Sin la adquisición de un dominio adicional, los problemas previamente mencionados continuarán ocurriendo.
+
+2. **Propósito del nuevo dominio:**  
+   - Exclusivamente publicitario, enfocado en promover la empresa.  
+   - Implementación inicial de una página estática que permita:  
+     - Registro de métricas de usuarios mediante la base de datos proporcionada por el servicio de hosting.  
+     - Análisis de estadísticas (diarias, semanales, mensuales o trimestrales) según los requerimientos.
+
+3. **Modificaciones en la URL:**  
+   - Actualmente, la URL lleva el nombre `maestranzanaval`.  
+   - Se actualizará para reflejar el nombre deseado en ambas plataformas (gestión y publicitaria).
+
+---
+
+## PARA IMPLEMENTAR
+
+### Servicios  
+
 | Reparación de hélices marinas | Servicios de mecanizado torno CNC | Servicios de mecanizado de piezas hasta 8 metros de largo |
 |:-----------------------------:|:---------------------------------:|:---------------------------------------------------------:|
 | ![F1](./image/Pasted%20image%20(0).png) | ![F2](./image/Pasted%20image%20(2).png) | ![F3](./image/Pasted%20image%20(1).png) |
@@ -28,8 +46,11 @@ Adicionalmente, en relación con el enlace de la página de gestión, es posible
 |:----------:|:------------------:|
 | ![F4](./image/Pasted%20image%20(0).png) | ![F5](./image/Pasted%20image%20(3).png) |
 
-**Productos:**  
-Hélices fundición hechas en Chile
+---
+
+### Productos  
+
+- **Hélices fundición hechas en Chile**  
 
 | Antes | Después |
 |:-----:|:-------:|
