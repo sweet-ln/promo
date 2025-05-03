@@ -9,6 +9,7 @@
 * [ ] Cambiar la forma en la que sale el link en la barra de búsqueda ["WWW.Maestranzanaval.cl" (revisar implementación sobre "www")]
 * [ ] Datos adicionales a incluir (consultar antes de la implementación), implementación de dirección del correo ("Sermec1097@gmail.com"), como la de un número de celular fijo ("65 2250263")
 ---
+---
 Aunque nuestro objetivo es desarrollar una página estática (sin interacción directa con el usuario), que se utilizará para promocionar la empresa de manera independiente de la plataforma actual de gestión empresarial, es necesario adquirir un nuevo dominio o actualizar el plan de hosting que actualmente poseemos. ¿Por qué? Porque sin la adquisición de un dominio adicional, los problemas previamente mencionados continuarán ocurriendo.
 
 El propósito de este nuevo dominio será exclusivamente publicitario, enfocado en promover la empresa. Inicialmente, se implementará una página estática que, mediante la base de datos proporcionada por el servicio de hosting, nos permitirá llevar un registro de métricas. Estas métricas nos permitirán analizar la cantidad de usuarios que acceden al sitio, con la posibilidad de obtener estadísticas diarias, semanales, mensuales o trimestrales, según lo que se requiera.
