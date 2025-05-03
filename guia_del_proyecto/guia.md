@@ -15,6 +15,7 @@ El propósito de este nuevo dominio será exclusivamente publicitario, enfocado 
 
 Adicionalmente, en relación con el enlace de la página de gestión, es posible realizar modificaciones en la URL, ya que actualmente lleva el nombre "maestranzanaval", que es precisamente el mismo nombre que deseamos utilizar para la página publicitaria. Uno de los cambios más relevantes será, por lo tanto, la actualización de esta URL para reflejar el nombre deseado en ambas plataformas.
 ---
+
 ### PARA IMPLEMENTAR
 
 **Servicios:**  
