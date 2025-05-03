@@ -1,20 +1,7 @@
 # Guía del Proyecto
 
-## PENDIENTE
-
-* [x] Pendiente: Se buscará rehacer formato/estructura de la página (nuevo diseño solicitado)  
-  ![Idea principal](./image/nuevo_formato.jpg)
-
----
-* [ ] Cambio del titular de la página + logo de la empresa (H1 - "SERMEC" [LOGO]), y como H2 "MAESTRANZA NAVAL"
-* [ ] Incluir fotos solicitadas sobre maquinaria que se opera en la empresa
-* [ ] Cambiar la forma en la que sale el link en la barra de búsqueda ["WWW.Maestranzanaval.cl" (revisar implementación sobre "www")]
-* [ ] Datos adicionales a incluir (consultar antes de la implementación), implementación de dirección del correo ("Sermec1097@gmail.com"), como la de un número de celular fijo ("65 2250263")
-
----
-
 ## Documentación Técnica
-
+---
 ### Página Estática y Dominio
 
 Aunque nuestro objetivo es desarrollar una **página estática** (sin interacción directa con el usuario), esta se utilizará para promocionar la empresa de manera independiente de la plataforma actual de gestión empresarial. Para ello, es necesario:
@@ -31,6 +18,29 @@ Aunque nuestro objetivo es desarrollar una **página estática** (sin interacci�
 3. **Modificaciones en la URL:**  
    - Actualmente, la URL lleva el nombre `maestranzanaval`.  
    - Se actualizará para reflejar el nombre deseado en ambas plataformas (gestión y publicitaria).
+
+---
+
+
+## PENDIENTE
+---
+
+* [x] Se buscará rehacer formato/estructura de la página (nuevo diseño solicitado).
+* [x] Cambio del titular de la página + logo de la empresa (H1 - "SERMEC" + [LOGO]), y como H2 "MAESTRANZA NAVAL".
+* [ ] Buscar e integrar logo para implementacion.
+* [ ] Datos adicionales a incluir en seccion contacto (consultar antes de la implementación), añadir de dirección del correo ("Sermec1097@gmail.com"), como la de un número de celular fijo ("65 2250263").
+* [ ] Incluir fotos solicitadas sobre maquinaria que se opera en la empresa + descripciones concisas respecto a cada una de ellas.
+* [ ] Mejorar archivo css junto al js.
+* [ ] Optimizacion/simplificacion de todos los archivos.
+* [ ] Cambiar link en la barra de búsqueda ["WWW.Maestranzanaval.cl" (revisar implementación sobre "www")].
+* [ ] Gestionar prioridad al buscar la pagina por el buscador.
+* [ ] Integracion de base de datos en la pagina (de momento de forma local para evitar posibles fallos).
+* [ ] Integracion de rubricas en base de datos para tener estadisticas sobre la cantidad usuarios que ingresan(tablas excel para gerente, tablas de BD para DEV).
+* [ ] Lanzamiento de la pagina de forma estatica.
+
+### IDEAS DE PROYECCION
+* [ ] Desarrollo para migrar a forma dinamica(impacto menor).
+* [ ] Gestionar implementacion de un chat bot que retorne a un whatsapp empresarial si el cliente solicita mas informacion.
 
 ---
 
