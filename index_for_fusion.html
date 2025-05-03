@@ -1,18 +1,13 @@
+<!DOCTYPE html>
 <html lang="es">
  <head>
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
-  <title>
-   Maestranza
-  </title>
-  <script src="https://cdn.tailwindcss.com">
-  </script>
+  <link rel="shortcut icon" href="image/pngwing_2.com.png">
+  <title>Maestranzanaval</title>
+  <script src="https://cdn.tailwindcss.com"></script>
   <link href="" rel="stylesheet"/><!--aplicar path de styles-->
-  <style>
-   body {
-      font-family: 'Roboto Condensed', sans-serif;
-    }
-  </style>
+  <style>body{font-family: 'Roboto Condensed', sans-serif;}</style><!--eliminar-->
  </head>
  <body class="bg-gray-100">
   <header class="relative w-full max-w-full" style="height: 540px;">
@@ -26,7 +21,9 @@
     </h2>
    </div>
   </header>
-  <main class="bg-gray-100 py-8 px-4 max-w-7xl mx-auto">
+  <main class="bg-gray-100 py-8 px-4 max-w-7xl mx-auto"><!--revisar integracion de "main"-->
+
+    <!--seccion informaciones-->
    <section class="grid grid-cols-1 sm:grid-cols-3 gap-8 text-center max-w-5xl mx-auto">
     <article>
      <h3 class="text-2xl font-extrabold tracking-widest mb-4">
@@ -46,6 +43,48 @@
      </h3>
      <img alt="Imagen" class="mx-auto object-cover w-72 h-80" height="350" src="" width="300"/><!--aplicar imagen-->
     </article>
+   </section>
+
+<!--seccion contactar -->
+   <section id="contacto" class="py-20">
+    <div class="container mx-auto">
+        <h2 class="text-3xl font-bold text-center mb-12">Contáctenos</h2>
+        <!--<form id="contact-form" action="https://formspree.io/f/xpwaekwr" method="POST" class="max-w-lg mx-auto">
+            <div class="mb-4">
+                <label for="name" class="block text-xl mb-2">Nombre</label>
+                <input type="text" id="name" name="name" class="w-full p-2 border border-gray-300 rounded" required>
+            </div>
+            <div class="mb-4">
+                <label for="email" class="block text-xl mb-2">Correo Electrónico</label>
+                <input type="email" id="email" name="email" class="w-full p-2 border border-gray-300 rounded" required>
+            </div>
+            <div class="mb-4">
+                <label for="message" class="block text-xl mb-2">Mensaje</label>
+                <textarea id="message" name="message" class="w-full p-2 border border-gray-300 rounded" rows="4" required></textarea>
+            </div>
+            <button type="submit" class="bg-navy text-white py-2 px-4 rounded">Enviar</button>
+        </form>-->                    
+        <div class="flex flex-col md:flex-row justify-center items-center space-y-6 md:space-y-0 md:space-x-12 mt-12">
+            <!--<div class="flex items-center">
+                <i data-lucide="phone" class="w-6 h-6 text-navy mr-2"></i>
+                <span>+652250263</span>
+            </div>-->
+            <div class="flex items-center">
+                <img src="imagen/whatsapp.png" alt="WhatsApp" class="w-6 h-6 mr-2">
+                <span><a href="https://api.whatsapp.com/send/?phone=56954222112&text&type=phone_number&app_absent=0" class="text-navy">nuestro WhatsApp</a></span>
+            </div>
+            <div class="flex items-center">
+                <i data-lucide="mail" class="w-6 h-6 text-black mr-2"></i>
+                <span>sermec1097@gmail.com</span>
+            </div>
+            <div class="flex items-center">
+                <i data-lucide="map-pin" class="w-6 h-6 text-black mr-2"></i>
+                <span><a 
+                    href="https://www.google.cl/maps/place/Reloncav%C3%AD+1097,+5501791+Puerto+Montt,+Los+Lagos/@-41.46638,-72.9639368,17z/data=!3m1!4b1!4m6!3m5!1s0x96183b09c9b23c2b:0x6ffef4b4ec5f149e!8m2!3d-41.466384!4d-72.9613619!16s%2Fg%2F11y7fh_b7p?entry=ttu&g_ep=EgoyMDI0MDkwOC4wIKXMDSoASAFQAw%3D%3D" 
+                    class="text-navy">RELONCAVI 1097 ESQ. STA. INES</a></span>
+            </div>
+        </div>
+    </div>
    </section>
   </main>
  </body>
