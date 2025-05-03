@@ -2,7 +2,7 @@
 
 ## PENDIENTE
 
-* [ ] Pendiente: Se buscará rehacer formato/estructura de la página (nuevo diseño solicitado)  
+* [x] Pendiente: Se buscará rehacer formato/estructura de la página (nuevo diseño solicitado)  
   ![Idea principal](./image/nuevo_formato.jpg)
 
 ---
