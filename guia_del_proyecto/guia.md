@@ -50,7 +50,7 @@ Aunque nuestro objetivo es desarrollar una **página estática** (sin interacci�
 
 | Reparación de hélices marinas | Servicios de mecanizado torno CNC | Servicios de mecanizado de piezas hasta 8 metros de largo |
 |:-----------------------------:|:---------------------------------:|:---------------------------------------------------------:|
-| ![F1](./image/Pasted%20image%20(0).png) | ![F2](./image/Pasted%20image%20(2).png) | ![F3](./image/Pasted%20image%20(1).png) |
+| ![F1](./image/Pasted%20image.png) | ![F2](./image/Pasted%20image%20(2).png) | ![F3](./image/Pasted%20image%20(1).png) |
 
 | Foto limpia | Flexímetro de ejes |
 |:----------:|:------------------:|
